@@ -1,0 +1,55 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/drawable-v24/edittextarkaplan.xml" value="0.1815" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/drawable-v24/ic_baseline_delete_24.xml" value="0.1815" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/drawable-v24/ic_baseline_free_breakfast_24.xml" value="0.1815" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/drawable-v24/ic_baseline_info_24.xml" value="0.1815" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/drawable-v24/ic_baseline_post_add_24.xml" value="0.1815" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-normal/activity_hakkinda.xml" value="0.2" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-normal/activity_iletisim.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-normal/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-normal/aksam_yemek_siralamasi.xml" value="0.6" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-normal/alert_tasarim.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-normal/fragment_aksam.xml" value="0.2" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-normal/fragment_kahvalti.xml" value="0.2" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-normal/kahvalti_siralamasi.xml" value="1.0" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-small/activity_hakkinda.xml" value="0.152" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-small/activity_iletisim.xml" value="0.536" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-small/activity_main.xml" value="0.8289473684210527" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-small/aksam_yemek_siralamasi.xml" value="0.8289473684210527" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-small/alert_tasarim.xml" value="0.4" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-small/fragment_aksam.xml" value="0.264" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-small/fragment_kahvalti.xml" value="0.176" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-small/kahvalti_siralamasi.xml" value="0.8289473684210527" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-xlarge/activity_hakkinda.xml" value="0.136" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-xlarge/activity_iletisim.xml" value="0.176" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-xlarge/activity_main.xml" value="0.13815789473684212" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-xlarge/aksam_yemek_siralamasi.xml" value="0.4" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-xlarge/alert_tasarim.xml" value="0.6" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-xlarge/fragment_aksam.xml" value="0.1" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-xlarge/fragment_kahvalti.xml" value="0.1" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout-xlarge/kahvalti_siralamasi.xml" value="0.13815789473684212" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout/activity_hakkinda.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout/activity_iletisim.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout/aksam_yemek_siralamasi.xml" value="0.8800000000000001" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout/alert_tasarim.xml" value="0.4" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout/fragment_aksam.xml" value="0.152" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout/fragment_kahvalti.xml" value="0.536" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout/genel_kahvalti_ucreti.xml" value="0.264" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/layout/kahvalti_siralamasi.xml" value="0.8" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/menu/anamenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/bayram/AndroidStudioProjects/KykYemekHesapla/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1815" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

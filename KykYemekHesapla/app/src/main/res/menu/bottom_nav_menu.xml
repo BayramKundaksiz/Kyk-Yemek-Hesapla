@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:id="@+id/Breakfast"
+        android:title="KAHVALTI"
+        android:icon="@drawable/ic_baseline_free_breakfast_24"/>
+
+    <item android:id="@+id/Dinner"
+        android:title="AKŞAM YEMEĞİ"
+        android:icon="@drawable/ic_baseline_fastfood_24"/>
+
+</menu>

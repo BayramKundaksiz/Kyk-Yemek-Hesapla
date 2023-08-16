@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C3C3C3"
+    tools:context=".Iletisim">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="699dp"
+        android:layout_height="106dp"
+        android:layout_marginTop="90dp"
+        android:gravity="center"
+        android:text="Lütfen aşağıdaki alanları doldurunuz."
+        android:textSize="45dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.467"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextMesaj"
+        android:layout_width="674dp"
+        android:layout_height="343dp"
+        android:background="@drawable/edittextarkaplan"
+        android:ems="10"
+        android:gravity="left"
+        android:hint="   Mesajınızı yazınız (Zorunlu Alan)"
+        android:inputType="textMultiLine"
+        android:padding="10dp"
+        android:textSize="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="469dp" />
+
+    <EditText
+        android:id="@+id/editTextKonu"
+        android:layout_width="697dp"
+        android:layout_height="92dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="12dp"
+        android:background="@drawable/edittextarkaplan"
+        android:ems="10"
+        android:hint="   Konu (Zorunlu değil)"
+        android:inputType="textPersonName"
+        android:padding="10dp"
+        android:textSize="40dp"
+        app:layout_constraintBottom_toTopOf="@+id/editTextMesaj"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.639" />
+
+    <Button
+        android:id="@+id/buttonMesajGonder"
+        android:layout_width="486dp"
+        android:layout_height="190dp"
+        android:layout_marginTop="92dp"
+        android:backgroundTint="#B10F0F"
+        android:text="E-POSTA GÖNDER"
+        android:textSize="50dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextMesaj" />
+
+    <EditText
+        android:id="@+id/editTextGonderilecekKisi"
+        android:layout_width="42dp"
+        android:layout_height="37dp"
+        android:background="@drawable/edittextarkaplan"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="yemekhesaplailetisim@gmail.com"
+        android:visibility="gone"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
